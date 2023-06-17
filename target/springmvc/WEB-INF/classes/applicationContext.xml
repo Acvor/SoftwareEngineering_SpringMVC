@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+    <!--用户类配置-->
+    <bean id="userAccountController" class="cn.edu.guet.controller.UserAccountController">
+        <property name="userAccountService" ref="userAccountService"></property>
+    </bean>
+    <bean id="userAccountService" class="cn.edu.guet.service.impl.UserAccountServiceImpl">
+        <property name="userAccountDao" ref="userAccountDao"></property>
+    </bean>
+    <bean id="userAccountDao" class="cn.edu.guet.dao.impl.UserAccountDaoImpl"></bean>
+    <!--学生类配置-->
+    <bean id="studentController" class="cn.edu.guet.controller.StudentController">
+        <property name="studentService" ref="studentService"></property>
+    </bean>
+    <bean id="studentService" class="cn.edu.guet.service.impl.StudentServiceImpl">
+        <property name="studentDao" ref="studentDao"></property>
+    </bean>
+    <bean id="studentDao" class="cn.edu.guet.dao.impl.StudentDaoImpl"></bean>
+    <!--课程类配置-->
+    <bean id="subjectController" class="cn.edu.guet.controller.SubjectController">
+        <property name="subjectService" ref="subjectService"></property>
+    </bean>
+    <bean id="subjectService" class="cn.edu.guet.service.impl.SubjectServiceImpl">
+        <property name="subjectDao" ref="subjectDao"></property>
+    </bean>
+    <bean id="subjectDao" class="cn.edu.guet.dao.impl.SubjectDaoImpl"></bean>
+    <!--管理员类配置，引入学生类配置-->
+    <bean id="adminController" class="cn.edu.guet.controller.AdminController">
+        <property name="adminService" ref="adminService"></property>
+        <property name="studentService" ref="studentService"></property>
+    </bean>
+    <bean id="adminService" class="cn.edu.guet.service.impl.AdminServiceImpl">
+        <property name="adminDao" ref="adminDao"></property>
+        <property name="studentDao" ref="studentDao"></property>
+    </bean>
+    <bean id="adminDao" class="cn.edu.guet.dao.impl.AdminDaoImpl"></bean>
+    <!--教师类配置-->
+    <bean id="teacherController" class="cn.edu.guet.controller.TeacherController">
+        <property name="teacherService" ref="teacherService"></property>
+    </bean>
+    <bean id="teacherService" class="cn.edu.guet.service.impl.TeacherServiceImpl">
+        <property name="teacherDao" ref="teacherDao"></property>
+    </bean>
+    <bean id="teacherDao" class="cn.edu.guet.dao.impl.TeacherDaoImpl"></bean>
+
+</beans>

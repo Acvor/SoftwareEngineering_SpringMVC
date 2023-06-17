@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SoftwareEngineering_SpringMVC:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77272ff9-72ae-472a-8b39-1585fecd1d9b" name="Default Changelist" comment="教务系统后端" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/Applications/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="/Applications/apache-maven-3.8.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="1h4ToCBdbZM7uJfUYYthyIiZDM1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acccvor\Desktop\SoftwareEngineering_SpringMVC\src\main\resources" />
+      <recent name="C:\Users\Acccvor\Desktop\SpringMVC_0525\src\main\java\cn\edu\guet\bean" />
+      <recent name="$PROJECT_DIR$/src/main/java/cn/edu/guet/dao" />
+      <recent name="$PROJECT_DIR$/src/main/java/cn/edu/guet/common" />
+      <recent name="$PROJECT_DIR$/src/main/java/cn/edu/guet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acccvor\Desktop\SpringMVC_0525\src\main\java\cn\edu\guet\bean" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.edu.guet.controller" />
+      <recent name="cn.edu.guet.util" />
+      <recent name="cn.edu.guet.service.impl" />
+      <recent name="cn.edu.guet.service" />
+      <recent name="cn.edu.guet.dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="openRunningConfigInTab" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.56" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.56" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SoftwareEngineering_SpringMVC:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="992c7fcb-569e-40a8-be2d-67f7a28af38f" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49989" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SpringMVC:war" />
+          <artifact name="SpringMVC_0525:war" />
+          <artifact name="SoftwareEngineering_SpringMVC:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77272ff9-72ae-472a-8b39-1585fecd1d9b" name="Default Changelist" comment="" />
+      <created>1599269536507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599269536507</updated>
+      <workItem from="1599269541544" duration="23712000" />
+      <workItem from="1599308555490" duration="1268000" />
+      <workItem from="1599312059261" duration="10174000" />
+      <workItem from="1599365270200" duration="2778000" />
+      <workItem from="1599377357994" duration="24000" />
+      <workItem from="1599450688765" duration="3878000" />
+      <workItem from="1684413115734" duration="445000" />
+      <workItem from="1684414053842" duration="3358000" />
+      <workItem from="1684421341350" duration="806000" />
+      <workItem from="1684463081137" duration="61000" />
+      <workItem from="1684595542151" duration="71000" />
+      <workItem from="1684631160343" duration="9310000" />
+      <workItem from="1684656935529" duration="6423000" />
+      <workItem from="1684683740453" duration="574000" />
+      <workItem from="1684744832916" duration="1006000" />
+      <workItem from="1684745943231" duration="352000" />
+      <workItem from="1684810985380" duration="21000" />
+      <workItem from="1684814427775" duration="98000" />
+      <workItem from="1684824408866" duration="657000" />
+      <workItem from="1684841640329" duration="2888000" />
+      <workItem from="1684919062912" duration="4362000" />
+      <workItem from="1684927855690" duration="1027000" />
+      <workItem from="1684928935400" duration="5179000" />
+      <workItem from="1684982449660" duration="4573000" />
+      <workItem from="1684999207366" duration="5821000" />
+      <workItem from="1685013908096" duration="1012000" />
+      <workItem from="1685015134801" duration="7760000" />
+      <workItem from="1685107523689" duration="445000" />
+      <workItem from="1685151913912" duration="1013000" />
+      <workItem from="1685152975797" duration="5926000" />
+      <workItem from="1685198807828" duration="1930000" />
+      <workItem from="1685203706190" duration="86000" />
+      <workItem from="1685258177597" duration="3304000" />
+      <workItem from="1685278519934" duration="1278000" />
+      <workItem from="1685348916459" duration="1939000" />
+      <workItem from="1685358488912" duration="3067000" />
+      <workItem from="1685418335729" duration="6451000" />
+      <workItem from="1685434641312" duration="1688000" />
+      <workItem from="1685447008387" duration="1301000" />
+      <workItem from="1685448331415" duration="295000" />
+      <workItem from="1685448648668" duration="90000" />
+      <workItem from="1685448751823" duration="5349000" />
+      <workItem from="1685498399662" duration="142000" />
+      <workItem from="1685505358903" duration="1694000" />
+      <workItem from="1685517824854" duration="1606000" />
+      <workItem from="1685779296418" duration="99000" />
+      <workItem from="1685779404913" duration="76000" />
+      <workItem from="1685779727173" duration="60000" />
+      <workItem from="1685806192297" duration="25000" />
+      <workItem from="1685808868507" duration="1064000" />
+      <workItem from="1685865987872" duration="1242000" />
+      <workItem from="1685870801997" duration="4162000" />
+      <workItem from="1685899555244" duration="278000" />
+      <workItem from="1685925748396" duration="684000" />
+      <workItem from="1685926795743" duration="1833000" />
+      <workItem from="1685949052986" duration="4118000" />
+      <workItem from="1685959063146" duration="3872000" />
+      <workItem from="1686041465242" duration="4625000" />
+      <workItem from="1686100234756" duration="3590000" />
+      <workItem from="1686105441010" duration="8907000" />
+      <workItem from="1686123822850" duration="70000" />
+      <workItem from="1686124678903" duration="53000" />
+      <workItem from="1686154512836" duration="3386000" />
+      <workItem from="1686190012023" duration="31527000" />
+      <workItem from="1686270459283" duration="3030000" />
+      <workItem from="1686274459839" duration="588000" />
+      <workItem from="1686379246963" duration="30000" />
+      <workItem from="1686382754171" duration="438000" />
+      <workItem from="1686968370765" duration="93000" />
+      <workItem from="1686968471172" duration="162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
